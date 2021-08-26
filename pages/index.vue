@@ -23,6 +23,7 @@ export default {
             ]
         }
     },
+    layout: 'normal',
     data() {
         return {
             joke : ''

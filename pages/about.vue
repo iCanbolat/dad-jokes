@@ -8,6 +8,7 @@
 
 <script>
 export default {
+    layout: 'normal',
     head(){
         return{
             title: 'About the App',

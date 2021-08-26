@@ -61,6 +61,7 @@ export default {
             ]
         }
     },
+    layout: 'normal',
 }
 </script>
 
