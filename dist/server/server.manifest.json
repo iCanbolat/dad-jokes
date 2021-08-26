@@ -1,0 +1,23 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/joke.js": "components/joke.js",
+    "components/random-joke.js": "components/random-joke.js",
+    "components/search-jokes.js": "components/search-jokes.js",
+    "pages/Jokes/_id/index.js": "pages/Jokes/_id/index.js",
+    "pages/Jokes/index.js": "pages/Jokes/index.js",
+    "pages/about.js": "pages/about.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/joke.js": "components/joke.js.map",
+    "components/random-joke.js": "components/random-joke.js.map",
+    "components/search-jokes.js": "components/search-jokes.js.map",
+    "pages/Jokes/_id/index.js": "pages/Jokes/_id/index.js.map",
+    "pages/Jokes/index.js": "pages/Jokes/index.js.map",
+    "pages/about.js": "pages/about.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
